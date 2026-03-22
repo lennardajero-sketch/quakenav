@@ -1,0 +1,5 @@
+package Quake.Nav
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
